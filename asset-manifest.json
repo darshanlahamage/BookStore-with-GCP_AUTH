@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BookStore-with-GCP_AUTH/static/css/main.53297886.css",
+    "main.js": "/BookStore-with-GCP_AUTH/static/js/main.ed4db496.js",
+    "static/js/787.0e31295a.chunk.js": "/BookStore-with-GCP_AUTH/static/js/787.0e31295a.chunk.js",
+    "static/media/Google__G__Logo.svg.webp": "/BookStore-with-GCP_AUTH/static/media/Google__G__Logo.svg.2c1c409491772eaffa89.webp",
+    "index.html": "/BookStore-with-GCP_AUTH/index.html",
+    "main.53297886.css.map": "/BookStore-with-GCP_AUTH/static/css/main.53297886.css.map",
+    "main.ed4db496.js.map": "/BookStore-with-GCP_AUTH/static/js/main.ed4db496.js.map",
+    "787.0e31295a.chunk.js.map": "/BookStore-with-GCP_AUTH/static/js/787.0e31295a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53297886.css",
+    "static/js/main.ed4db496.js"
+  ]
+}
