@@ -9,7 +9,7 @@ const Main = () => {
   const searchBook = async () => {
     try {
       const response = await axios.get(
-        `https://www.googleapis.com/books/v1/volumes?q=${search}&maxResults=40&key=AIzaSyDGC4u6i0gWDQqv6xH1T-iDxbTg9sjAudU`
+        `https://www.googleapis.com/books/v1/volumes?q=${search}&maxResults=40&key=APIKey`
       );
       if(response.data.items){
         console.log(response.data.items)
