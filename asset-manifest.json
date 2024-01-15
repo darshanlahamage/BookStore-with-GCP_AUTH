@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BookStore-with-GCP_AUTH/static/css/main.53297886.css",
-    "main.js": "/BookStore-with-GCP_AUTH/static/js/main.ed4db496.js",
-    "static/js/787.0e31295a.chunk.js": "/BookStore-with-GCP_AUTH/static/js/787.0e31295a.chunk.js",
+    "main.css": "/BookStore-with-GCP_AUTH/static/css/main.02323ce2.css",
+    "main.js": "/BookStore-with-GCP_AUTH/static/js/main.07e990c5.js",
+    "static/media/bg1.png": "/BookStore-with-GCP_AUTH/static/media/bg1.7b6b7467cd83f4871538.png",
     "static/media/Google__G__Logo.svg.webp": "/BookStore-with-GCP_AUTH/static/media/Google__G__Logo.svg.2c1c409491772eaffa89.webp",
+    "static/media/apple-books-app-icon.png": "/BookStore-with-GCP_AUTH/static/media/apple-books-app-icon.bff9a90af881b52d9feb.png",
     "index.html": "/BookStore-with-GCP_AUTH/index.html",
-    "main.53297886.css.map": "/BookStore-with-GCP_AUTH/static/css/main.53297886.css.map",
-    "main.ed4db496.js.map": "/BookStore-with-GCP_AUTH/static/js/main.ed4db496.js.map",
-    "787.0e31295a.chunk.js.map": "/BookStore-with-GCP_AUTH/static/js/787.0e31295a.chunk.js.map"
+    "main.02323ce2.css.map": "/BookStore-with-GCP_AUTH/static/css/main.02323ce2.css.map",
+    "main.07e990c5.js.map": "/BookStore-with-GCP_AUTH/static/js/main.07e990c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.53297886.css",
-    "static/js/main.ed4db496.js"
+    "static/css/main.02323ce2.css",
+    "static/js/main.07e990c5.js"
   ]
 }
